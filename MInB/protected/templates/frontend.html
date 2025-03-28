@@ -1,9 +1,0 @@
-<?php if ( isset($processed) && isset($processed['payment_url']) ): ?>
-
-	<?php header('Location: '.$processed['payment_url']); ?>
-	
-	<br /><p>Выполняется перенаправление, если Вас не переадресовало автоматически нажмите на эту <a href="<?= $processed['payment_url']; ?>">ссылку</a>.</p>
-	<script type="text/javascript">
-		window.location.href = '<?= $processed['payment_url']; ?>';
-	</script>
-<?php endif; ?>
