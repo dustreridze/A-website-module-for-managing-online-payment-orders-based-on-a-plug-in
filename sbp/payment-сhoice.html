@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Выбор способа оплаты</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f9;
+        }
+
+        .container {
+            display: flex;
+            gap: 20px;
+        }
+
+        .card {
+            border: 2px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+            width: 250px;
+            text-align: center;
+            cursor: default;
+            background-color: #f9f9f9;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .card h3 {
+            margin: 0 0 10px;
+        }
+
+        .card p {
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .card button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: white;
+            font-size: 1em;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .card button:hover {
+            background-color: #0056b3;
+        }
+
+        .card.active {
+            border-color: #007bff;
+            background-color: #e6f0ff;
+            transform: scale(1.1);
+        }
+
+        .card.inactive {
+            border-color: #ddd;
+            background-color: #f0f0f0;
+            color: #aaa;
+            transform: scale(0.9);
+            cursor: pointer;
+        }
+
+        .card.inactive button {
+            background-color: #aaa;
+            color: #ddd;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card active" id="qrCard">
+            <h3>Оплата по QR-коду</h3>
+            <p>Быстро и удобно: просто отсканируйте QR-код с помощью приложения вашего банка.</p>
+            <button onclick="payByQRCode()">Перейти к оплате</button>
+        </div>
+
+        <div class="card inactive" id="cardCard">
+            <h3>Оплата картой</h3>
+            <p>Оплата через Промсвязьбанк, требуется ввести реквизиты карты.</p>
+            <button onclick="payByCard()">Перейти к оплате</button>
+        </div>
+    </div>
+
+    <script>
+        const qrCard = document.getElementById('qrCard');
+        const cardCard = document.getElementById('cardCard');
+        const qrButton = qrCard.querySelector('button');
+        const cardButton = cardCard.querySelector('button');
+
+        function activateCard(cardToActivate, buttonToActivate, cardToDeactivate, buttonToDeactivate) {
+            cardToActivate.classList.add('active');
+            cardToActivate.classList.remove('inactive');
+            buttonToActivate.style.pointerEvents = 'auto'; 
+
+            cardToDeactivate.classList.add('inactive');
+            cardToDeactivate.classList.remove('active');
+            buttonToDeactivate.style.pointerEvents = 'none'; 
+        }
+
+        qrCard.addEventListener('click', (event) => {
+            if (!qrCard.classList.contains('active')) {
+                activateCard(qrCard, qrButton, cardCard, cardButton);
+            }
+        });
+
+        cardCard.addEventListener('click', (event) => {
+            if (!cardCard.classList.contains('active')) {
+                activateCard(cardCard, cardButton, qrCard, qrButton);
+            }
+        });
+
+        function payByQRCode() {
+            window.location.replace("https://test.paygine.com/webapi/Purchase?sector=7106&id=9656600&signature=NzZhNzU0ZDMyNDMzN2Q4MTE5MzVhNGQ4OGNjNDFmMmI=");
+        }
+
+        function payByCard() {
+            window.location.replace("https://pay.pay-ok.org/lavr/?GUID=761e3621-b2ec-11ef-974e-3cecef0d5739");
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,6223 @@
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9868465</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 13:06:44</date>
+<amount>21780000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798ac33423434.86576251</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2131</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2131</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10000VLIJRQFG69LM8HLTSMKKGNUPU</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10000VLIJRQFG69LM8HLTSMKKGNUPU?type=02&amp;bank=100000000123&amp;sum=21780000&amp;cur=RUB&amp;crc=0D67</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>Nzk1ZDNhNzM5NTIxNGI5NmNiZTIwMWFmNzEwMjg3NWM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9868511</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 13:12:01</date>
+<amount>21780000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798ad70bb1663.58781546</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2132</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2132</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007ARFATVQ2T9NO8J3FSC8NNUQB3</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007ARFATVQ2T9NO8J3FSC8NNUQB3?type=02&amp;bank=100000000123&amp;sum=21780000&amp;cur=RUB&amp;crc=A666</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWZhY2JlMDY5NjUxNWVkYmI4YWE5NDlhNWNlNmE3NTI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9868538</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 13:15:37</date>
+<amount>23100000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798ae486a5244.51426160</reference>
+<description>Быстросборный контейнер; , Стеллажи; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2133</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2133</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10006G1E5B79CK834OEJK1427J7NA7</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10006G1E5B79CK834OEJK1427J7NA7?type=02&amp;bank=100000000123&amp;sum=23100000&amp;cur=RUB&amp;crc=D62F</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NGQzMTQ4ZjQyMGI2M2U3OGExNWI0Y2Y1MTUxNzI3ZTQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9868661</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 13:23:48</date>
+<amount>23100000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798b033593557.07085664</reference>
+<description>Быстросборный контейнер; , Стеллажи; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2134</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2134</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10006ADQEOUID99HMA0N2HE6MHN50N</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10006ADQEOUID99HMA0N2HE6MHN50N?type=02&amp;bank=100000000123&amp;sum=23100000&amp;cur=RUB&amp;crc=69F9</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MzBhMWVmY2YyM2JhNjkwYjAwNTEwZmViYmE3NTdiNDE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9869966</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 14:19:41</date>
+<amount>26670000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798bd4cca9882.62202031</reference>
+<description>Быстросборный контейнер; , Сундук садовый сборно-разборный; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2138</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2138</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001OMGI9N5L491BQ46LNGAKMH4HO</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001OMGI9N5L491BQ46LNGAKMH4HO?type=02&amp;bank=100000000123&amp;sum=26670000&amp;cur=RUB&amp;crc=6D82</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZTMzOGIzYzNjMzU5M2NhMjI5NTgzZTcyNDI3NTVmZmU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9869979</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 14:20:29</date>
+<amount>26670000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798bd7c9f7bb6.08536152</reference>
+<description>Быстросборный контейнер; , Сундук садовый сборно-разборный; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2138</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2138</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NDcwY2UyODJkM2UxNGFmOThhYzI2ZDIxOWI5ZmRiNGU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9869984</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 14:20:46</date>
+<amount>26670000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798bd8cef2399.08386863</reference>
+<description>Быстросборный контейнер; , Сундук садовый сборно-разборный; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2139</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2139</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD1000311FIKTCOG83NP583PRM02VPC2</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD1000311FIKTCOG83NP583PRM02VPC2?type=02&amp;bank=100000000123&amp;sum=26670000&amp;cur=RUB&amp;crc=0D4B</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWU2ZWRjODNhYjQwZTNkYzk2MDAxYzAyNGVjYjk5ZmQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9870119</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 14:31:36</date>
+<amount>26670000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798c017592441.02968429</reference>
+<description>Быстросборный контейнер; , Сундук садовый сборно-разборный; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2140</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2140</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001DK0J74HLE84SR3RPFUDKAH5BV</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001DK0J74HLE84SR3RPFUDKAH5BV?type=02&amp;bank=100000000123&amp;sum=26670000&amp;cur=RUB&amp;crc=DB29</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>Yzg0MjcxZWMxYjFkYzlkMDY0ZTJiYmMxMjg0ZjEyZWI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><error>
+<description>Ошибка: Неправильная сумма операции. Пожалуйста, обратитесь в свой Интернет-магазин.</description>
+<code>128</code>
+</error>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9870988</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 14:53:02</date>
+<amount>12769000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798c51d186e73.85622185</reference>
+<description>Быстросборный контейнер; , Сундук садовый сборно-разборный; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2143</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2143</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWJkMDY0NmExNWVjMzQ1ZDY0YzQ5OGRlMmEwZmQ0OTU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><error>
+<description>Ошибка: Неправильная сумма операции. Пожалуйста, обратитесь в свой Интернет-магазин.</description>
+<code>128</code>
+</error>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><error>
+<description>Ошибка: Неправильная сумма операции. Пожалуйста, обратитесь в свой Интернет-магазин.</description>
+<code>128</code>
+</error>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9871316</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 15:09:47</date>
+<amount>23948000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798c90aa731d4.61499877</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2146</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2146</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100029M583SBVB9CUQVC46P3RHSH1M</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100029M583SBVB9CUQVC46P3RHSH1M?type=02&amp;bank=100000000123&amp;sum=23948000&amp;cur=RUB&amp;crc=3079</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ODFiNDlhOTBkNWUxYTIzYjgxMDQyMWZmMjgwYjQ5ZWY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><error>
+<description>Ошибка: Неправильная сумма операции. Пожалуйста, обратитесь в свой Интернет-магазин.</description>
+<code>128</code>
+</error>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9871548</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 15:38:17</date>
+<amount>25080000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798cfb8226088.38111561</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2148</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2148</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NDZiZTUwOGU4M2M2YjVmNmM4NmEwMDIzYzIxMGFhOTY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9871553</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 15:38:40</date>
+<amount>27840000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798cfcf4a8c67.39466298</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2149</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2149</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002SAN4O04AM9SIP553ALSIRMLCJ</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002SAN4O04AM9SIP553ALSIRMLCJ?type=02&amp;bank=100000000123&amp;sum=27840000&amp;cur=RUB&amp;crc=BB16</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MzFlYTJlZTJlMDhmMDU0Y2QxNmU3ZmE5YzBjYzFlOGM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><error>
+<description>Ошибка: Неправильная сумма операции. Пожалуйста, обратитесь в свой Интернет-магазин.</description>
+<code>128</code>
+</error>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9871645</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 15:56:48</date>
+<amount>21568000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798d40f238c39.83069070</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2151</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2151</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002BCLR7JGJ58VFQRJJ873PDCUQQ</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002BCLR7JGJ58VFQRJJ873PDCUQQ?type=02&amp;bank=100000000123&amp;sum=21568000&amp;cur=RUB&amp;crc=67CF</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NDAxZjJkNzhmNzM5NjhkMDEwMTZhZDdiYmI3ODYzODA=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9871661</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 15:59:11</date>
+<amount>21568000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798d49e7230d2.18469171</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2152</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2152</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004QFS3RILPB8T7O431UDQV94SLC</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004QFS3RILPB8T7O431UDQV94SLC?type=02&amp;bank=100000000123&amp;sum=21568000&amp;cur=RUB&amp;crc=394F</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZDUxYzlkZjRjNmNiNDQwNzg2ZmYxN2RmNzM0MmU5YzI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9871755</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 16:16:58</date>
+<amount>20140000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798d8c9249821.47044439</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2153</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2153</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007TIC404V059RE932VPK98U5VKF</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007TIC404V059RE932VPK98U5VKF?type=02&amp;bank=100000000123&amp;sum=20140000&amp;cur=RUB&amp;crc=05D8</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MGRmODE4ODNmNDJiZTViOGRmNzk2ZTVhYmQ4ZTM4Zjk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9871820</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 16:27:43</date>
+<amount>20140000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798db4e563861.68893819</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2154</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2154</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100058LV20I0NN9H7OT9I3HVU8BCCP</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100058LV20I0NN9H7OT9I3HVU8BCCP?type=02&amp;bank=100000000123&amp;sum=20140000&amp;cur=RUB&amp;crc=BCBF</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>OWM3YTVhZTM1ZDUyZGMwZDE4NjExYjIwOGQ1ZjNlNDA=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9871858</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 16:38:22</date>
+<amount>20140000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798ddcd600221.84634525</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2155</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2155</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100009C9K9VEQI9IBBU4CO0LA4KBNK</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100009C9K9VEQI9IBBU4CO0LA4KBNK?type=02&amp;bank=100000000123&amp;sum=20140000&amp;cur=RUB&amp;crc=72CD</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NWRiZmM0MGVhZGI1YzQ5NGZlNWFmMzJkM2JiZDJkMjM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9872517</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 18:39:14</date>
+<amount>24132000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798fa21871dd7.10116858</reference>
+<description>Быстросборный контейнер; , Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2156</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2156</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZjE4MTJlNzllYzY5N2VkZGMyODg1NjNlY2QxODdmNmU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9872529</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 18:42:56</date>
+<amount>24132000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798faff468db0.42208868</reference>
+<description>Быстросборный контейнер; , Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2157</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2157</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD1000703D7U7R7K88S8942BOQOEI08C</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD1000703D7U7R7K88S8942BOQOEI08C?type=02&amp;bank=100000000123&amp;sum=24132000&amp;cur=RUB&amp;crc=298D</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NjMyOWY2YWQzZTk5M2E3ZjdkOGZjZjE1YTQ0ZDFkZGM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9872553</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 18:55:01</date>
+<amount>24132000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6798fdd3df0072.83450409</reference>
+<description>Быстросборный контейнер; , Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2158</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2158</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004HFOVBCLBF815O938UCTV10TDR</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004HFOVBCLBF815O938UCTV10TDR?type=02&amp;bank=100000000123&amp;sum=24132000&amp;cur=RUB&amp;crc=5937</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YzZhYzY3ZjdkZWYyYzQ0ZjdiMGM4ZmUzNzlmNGE2MWY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9872676</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.28 19:36:08</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67990777cff228.06293492</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2159</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2159</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10003SJI34DQB29VRA0QG8MJTB28AL</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10003SJI34DQB29VRA0QG8MJTB28AL?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=FE87</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NGNiNWM2MGMzNGFmODM0ZDJkMTM1ZTkxMzhmMGQ4Zjk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><error>
+<description>Ошибка: Неправильная сумма операции. Пожалуйста, обратитесь в свой Интернет-магазин.</description>
+<code>128</code>
+</error>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873437</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 00:16:03</date>
+<amount>23948000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6799491221ba26.29600424</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2161</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2161</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002T3M95FENE8P09FSMG8TGOOILP</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002T3M95FENE8P09FSMG8TGOOILP?type=02&amp;bank=100000000123&amp;sum=23948000&amp;cur=RUB&amp;crc=1667</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZmY3YTRkNzBlZDEzNmNmODVkODAwYWMwN2MyNjEyNjU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><error>
+<description>Ошибка: Неправильная сумма операции. Пожалуйста, обратитесь в свой Интернет-магазин.</description>
+<code>128</code>
+</error>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><error>
+<description>Ошибка: Неправильная сумма операции. Пожалуйста, обратитесь в свой Интернет-магазин.</description>
+<code>128</code>
+</error>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873526</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 00:54:19</date>
+<amount>18760000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6799520a5caa12.49178067</reference>
+<description>Быстросборный контейнер; , Сундук садовый сборно-разборный; , Грядки оцинкованные; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2164</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2164</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD1000254TPUJO7R9LAR4PUFKGHQ6H78</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD1000254TPUJO7R9LAR4PUFKGHQ6H78?type=02&amp;bank=100000000123&amp;sum=18760000&amp;cur=RUB&amp;crc=CEEE</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NzA0ZjQ3ODA0OWE3M2VkZWQ2OWFkZGEzNmVhODhhYWM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873558</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 01:04:57</date>
+<amount>18760000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67995488bde5f8.73506329</reference>
+<description>Быстросборный контейнер; , Сундук садовый сборно-разборный; , Грядки оцинкованные; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2165</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2165</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10003BUOOM6QGI98BP06PNDDQSQBLJ</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10003BUOOM6QGI98BP06PNDDQSQBLJ?type=02&amp;bank=100000000123&amp;sum=18760000&amp;cur=RUB&amp;crc=D8FA</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MjMwYzBhMWIzYjVjY2ZiODk4NmYxNTgwYzJmYWI5Y2Y=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873562</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 01:05:40</date>
+<amount>18760000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679954b36346e5.21541441</reference>
+<description>Быстросборный контейнер; , Сундук садовый сборно-разборный; , Грядки оцинкованные; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2166</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2166</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10005MDTVM6FA19G4QBOAM50745EG6</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10005MDTVM6FA19G4QBOAM50745EG6?type=02&amp;bank=100000000123&amp;sum=18760000&amp;cur=RUB&amp;crc=6B86</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZDdlZDkyNWUwM2JhZDIzOWEwYzc4ZGNlNTA1MjIwOTg=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873601</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 01:21:10</date>
+<amount>10460000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679958554b0121.01819422</reference>
+<description>Быстросборный контейнер; , Грядки оцинкованные; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2167</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2167</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001436KPJDIN9M3OA0NALE0C2SE8</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001436KPJDIN9M3OA0NALE0C2SE8?type=02&amp;bank=100000000123&amp;sum=10460000&amp;cur=RUB&amp;crc=1713</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>OTRkYzgyZDY5NGVmOTE5YThlOWE5NzhlZTVkZGM4NTk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873620</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 01:35:43</date>
+<amount>10460000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67995bbeb32fd1.93972397</reference>
+<description>Быстросборный контейнер; , Грядки оцинкованные; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2168</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2168</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007MMJ77OR009DSPD7L1S758PGPU</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007MMJ77OR009DSPD7L1S758PGPU?type=02&amp;bank=100000000123&amp;sum=10460000&amp;cur=RUB&amp;crc=7EBC</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NGY4OTU1ZDVhMjllOTE0NDAwNjE1ZWExYTk1NTJkOWQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873629</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 01:42:24</date>
+<amount>10460000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67995d4f48d6c0.87249069</reference>
+<description>Быстросборный контейнер; , Грядки оцинкованные; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2169</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2169</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10005VGE0CJIH898UBL9O7R7FDORMV</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10005VGE0CJIH898UBL9O7R7FDORMV?type=02&amp;bank=100000000123&amp;sum=10460000&amp;cur=RUB&amp;crc=859E</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>Yzg5ZTQxYjg5NDM1ZjgwNjg2NjM5ZjlkNzM2ZjBkYWE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873642</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 01:51:06</date>
+<amount>14360000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67995f595f9c01.04135228</reference>
+<description>Быстросборный контейнер; , Грядки оцинкованные; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2170</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2170</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD1000488HTUA13E9HNA2U6RA9S621HL</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD1000488HTUA13E9HNA2U6RA9S621HL?type=02&amp;bank=100000000123&amp;sum=14360000&amp;cur=RUB&amp;crc=DE8A</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MDM5MmEwOTY2ZTU0OTRjNTU2YjcwZGMwZjM4NTVkN2Q=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873735</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 02:26:13</date>
+<amount>20362000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_6799679422b174.60782241</reference>
+<description>Быстросборный контейнер; , Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2171</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2171</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002A9G8S0VP79M4R16MSFJI0P8O8</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002A9G8S0VP79M4R16MSFJI0P8O8?type=02&amp;bank=100000000123&amp;sum=20362000&amp;cur=RUB&amp;crc=7E5A</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>M2Q5MGMyYzcxY2JiMzRhODAxZjNjYjhlOTcxNmIwODY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873737</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 02:33:30</date>
+<amount>20362000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679969497f0526.73712890</reference>
+<description>Быстросборный контейнер; , Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2172</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2172</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001LTK36TSAN92ARU52OCM82SGPL</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001LTK36TSAN92ARU52OCM82SGPL?type=02&amp;bank=100000000123&amp;sum=20362000&amp;cur=RUB&amp;crc=29C8</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZjQ4YzdiZjRjMWM1YWY2YmNkYjZkOGYzODIyYzEzN2U=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873741</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 02:53:13</date>
+<amount>20190000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67996de855c642.50845829</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2173</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2173</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10003SGUUG90VR937OK8UGMUJHLCQ6</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10003SGUUG90VR937OK8UGMUJHLCQ6?type=02&amp;bank=100000000123&amp;sum=20190000&amp;cur=RUB&amp;crc=AA56</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>Yzc1MmI2OWQxYTZlNGVjOWUwNGI2MGM4OTUyNWM3OTc=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873744</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 02:57:12</date>
+<amount>20190000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67996ed7c14177.24505298</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2174</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2174</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100024QT5I375I9VEQO8143RDPT323</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100024QT5I375I9VEQO8143RDPT323?type=02&amp;bank=100000000123&amp;sum=20190000&amp;cur=RUB&amp;crc=BBF0</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>OTRjZTQyYzQzNjMyYmJmNmQyZjdlM2I1NDUyMmU1YjQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873745</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 02:58:37</date>
+<amount>20190000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67996f2c77f179.38676234</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2175</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2175</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100059LUTP9SH48Q2P2MCGLPDJBVRD</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100059LUTP9SH48Q2P2MCGLPDJBVRD?type=02&amp;bank=100000000123&amp;sum=20190000&amp;cur=RUB&amp;crc=19A6</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NzlhMmM2ZGI4MTVkZGMxMzAzOTVlNjkyZWIzMzI2MmQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873747</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 03:01:01</date>
+<amount>22030000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67996fbc98a568.75570621</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2176</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2176</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10003LP0I2FFB68DD92V4MUU1VEFB9</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10003LP0I2FFB68DD92V4MUU1VEFB9?type=02&amp;bank=100000000123&amp;sum=22030000&amp;cur=RUB&amp;crc=99B9</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ODFiOWMxYjM3YWQ0YzQzYzJkMzBmMDVjN2EwYWFkYWQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873748</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 03:03:49</date>
+<amount>22030000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679970644cb7d7.62033987</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2177</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2177</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100041R9KFNVHA99POUO0E8MSANKO9</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100041R9KFNVHA99POUO0E8MSANKO9?type=02&amp;bank=100000000123&amp;sum=22030000&amp;cur=RUB&amp;crc=A7CA</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MjgzMzM0NTZkYmY3NTdmNmU1ZTRmMzNmMzU0ZThiMjc=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873750</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 03:08:56</date>
+<amount>22030000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67997197be1579.80236199</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2178</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2178</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002IF4OSFRRE8F7BQSMPP5OHOSQH</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002IF4OSFRRE8F7BQSMPP5OHOSQH?type=02&amp;bank=100000000123&amp;sum=22030000&amp;cur=RUB&amp;crc=A071</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YTUyZGVmNmNjMDEzNDUzOWFjZmQwOTgzZjQ1MTA4ZWU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9873751</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.29 03:15:21</date>
+<amount>22030000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67997318146ea6.01889458</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2179</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2179</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100042R54UP7RQ8R1BOE8LEA4ETHPA</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100042R54UP7RQ8R1BOE8LEA4ETHPA?type=02&amp;bank=100000000123&amp;sum=22030000&amp;cur=RUB&amp;crc=B67A</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NzhkMjQ3MDdkODE4ODJlZjJjY2E2OTEyNWMyMjhhYTA=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9883183</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 05:58:24</date>
+<amount>11348000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679aeacf726089.06544498</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2180</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2180</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004C1CLB3DUF83MBVH08QQUSLL0N</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004C1CLB3DUF83MBVH08QQUSLL0N?type=02&amp;bank=100000000123&amp;sum=11348000&amp;cur=RUB&amp;crc=D69E</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MGVjYzdiYzEyNDc5NTY4NDZjNjJjY2NkZjU5MjgyMzk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9883184</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 05:59:09</date>
+<amount>11348000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679aeafc026949.29772428</reference>
+<description>Быстросборный контейнер; , Скамейка садовая; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2181</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2181</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001CT4A0I03L896Q608CHIAD9HED</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001CT4A0I03L896Q608CHIAD9HED?type=02&amp;bank=100000000123&amp;sum=11348000&amp;cur=RUB&amp;crc=9DF4</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YjgzY2UzNWJlZWM1N2E5Mzc2NWYwOTY0NzQyYzExNzM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9883223</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 06:32:42</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679af2d911cd20.41597625</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2182</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2182</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004JHLK7KQ589P5BN8RTJJMC3JK5</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004JHLK7KQ589P5BN8RTJJMC3JK5?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=6AF2</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZTUxZGIzOWJkYzczZDdjMzQ3OWJiNTE2NzJjODkwMjk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9883644</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 07:17:24</date>
+<amount>14792000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679afd531eccb1.04362795</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2183</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2183</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007R4U2OAKO68L0AA17NGUL38J2T</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007R4U2OAKO68L0AA17NGUL38J2T?type=02&amp;bank=100000000123&amp;sum=14792000&amp;cur=RUB&amp;crc=94F3</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>OTZiYTM3MzhjMDJhMGM0MjJkYmY5NDIxZDU5NzA0Y2U=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9883671</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 07:19:24</date>
+<amount>14792000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679afdcb2567a7.89025636</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2184</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2184</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004FMQKVK2NE9RF8LLA1EKHFKDOJ</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004FMQKVK2NE9RF8LLA1EKHFKDOJ?type=02&amp;bank=100000000123&amp;sum=14792000&amp;cur=RUB&amp;crc=E6A9</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ODhmZmEzMGU2MDcxYmQ3Nzc1MmRjZDUxYTgzNzk2OTA=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9883746</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 07:30:37</date>
+<amount>14792000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b006c73c437.25555325</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2185</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2185</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100029H1OJCGLJ96EQDO6I8LI0I545</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100029H1OJCGLJ96EQDO6I8LI0I545?type=02&amp;bank=100000000123&amp;sum=14792000&amp;cur=RUB&amp;crc=9ABE</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MWM2MTFmMWU5Mjc1YWFjYmFhMWM3MmZjZjNmN2M2YTE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9883834</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 07:35:51</date>
+<amount>14792000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b01a6bc7779.28706521</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2186</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2186</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007NA3H1825J9N7O45J1CHLNTNK5</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007NA3H1825J9N7O45J1CHLNTNK5?type=02&amp;bank=100000000123&amp;sum=14792000&amp;cur=RUB&amp;crc=83D2</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YTcxNzZjNGNhYTczZmU5NjIyNzVhNDQyYzM3NzBiNGQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9885292</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 11:50:59</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b3d725f86b5.71515243</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2187</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2187</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002M0PM5N2DB89EO85CVVE1R3Q34</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002M0PM5N2DB89EO85CVVE1R3Q34?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=2F92</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NjJjZjQzYTY5MGIwODE1NzAyYTE1YjhjZTFjYjk5NTI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9885295</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 11:51:47</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b3da25b20e7.39790010</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2188</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2188</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100019ALRAFOCO9MMALDGSLODAUHUG</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100019ALRAFOCO9MMALDGSLODAUHUG?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=FB9D</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YWYyMGU3NjQ1NDMzY2EwNGJmNjU1NzJjOTY3YzI3MTY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9885325</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 11:57:26</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b3ef548a8f7.82725522</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2189</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2189</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001TJMV3FUC08DRPH3GLCMI27KCF</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001TJMV3FUC08DRPH3GLCMI27KCF?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=1265</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ODljZmMyYWRjYjQxMDc5MjNkOWM0M2FhNTQ1MjlmODY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9885538</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 12:23:19</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b4506503172.90942092</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2192</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2192</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100077TBGLSB3B8BMR1835DHPJO7LN</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100077TBGLSB3B8BMR1835DHPJO7LN?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=24B2</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>M2I3MDY1NzIxNDJjOTZkNDc4NGNiZTdmZjBiZDFmN2U=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9885570</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 12:25:05</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b45709d2423.31008803</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2193</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2193</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD1000165PH2OQ2V9LJO9GMB4HMK96IK</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD1000165PH2OQ2V9LJO9GMB4HMK96IK?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=B75A</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>OTFkN2YxYTNhNTUyZjg3ZDE2Zjg3ZGFlZjc5YjI5YmI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9885588</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 12:26:02</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b45a9a00350.77116315</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2194</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2194</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NTRkZThiZGZmNDcwZDY1NzJiNjYwZTk5NDFlM2E4ZWY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9885594</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 12:26:23</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b45be3614e2.57491416</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2195</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2195</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>N2FjZTRmZTEwNTEzNjhkMjZlYWQ5MTNjN2MyODA2ZTc=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9885863</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 12:59:48</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b4d930c8428.55641021</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2200</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2200</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007C10UUTDEB9HQR2E5O6TJHGJBE</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007C10UUTDEB9HQR2E5O6TJHGJBE?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=D84B</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YzhlNGUyZDM1NWY2ZGUxOGQ1ZDMxZWI2OWNjYzk4YTQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9886122</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 13:43:36</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b57d7205104.85886661</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2204</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2204</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD1000090IPOUUEE8H9PHJ1B8681QBOQ</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD1000090IPOUUEE8H9PHJ1B8681QBOQ?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=F50E</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MGQ2YjI5MGFmNTMzZThkNDM0NDNhN2YyYTFjYTk4NzU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9886428</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 14:01:22</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b5c014e7242.36433207</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2205</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2205</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100077TROCKJ4J810R43TATC5LCEGP</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100077TROCKJ4J810R43TATC5LCEGP?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=3643</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MzczZWVlZjM4YjJlYjNmZWMzYjJmODlmYjU5MWRiNjU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9886520</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 14:17:37</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b5fd0ccef02.67389262</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2207</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2207</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10003SNGQQSI3I8GKAU09S519F3C80</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10003SNGQQSI3I8GKAU09S519F3C80?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=3C38</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWE0ZDJmMTgxODc1NmM5MWU2ODE3ZjY5ODRmZGI3MmM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9886575</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 14:27:34</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>orderSBP_679b62253296f9.28375160</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2210</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2210</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10000Q0JJB4F248QMR0N53EC1AMEBT</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10000Q0JJB4F248QMR0N53EC1AMEBT?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=95E3</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YmIwMDRlNmRkNGQwMjNhMTE5YTRiNzA3ZWJhOWQ2ZDM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9886579</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 14:28:26</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b6259302b82.37691244</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2211</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2211</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100067R1R6TI4B8TMB8K9A3Q49BQBN</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100067R1R6TI4B8TMB8K9A3Q49BQBN?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=3A3B</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZGQ2OWU1ZDE5YzIzY2EzZGM2ZmIyNDdiMDk1NzVhZDE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9886608</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 14:31:57</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b632c30a1d</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2212</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2212</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10000J5PG3UKUK90J8O45SO9G0Q47D</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10000J5PG3UKUK90J8O45SO9G0Q47D?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=3841</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>OTQ3YjExMzUzZjU3Mzg0MzBjNWEwNDE4ZDhkNDRlMmI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9886666</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 14:39:13</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b64e07817d</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2214</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2214</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004RGVK1FULC9PRQPDQ527IUKGJD</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004RGVK1FULC9PRQPDQ527IUKGJD?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=5188</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZmIxMzBhYzVjMzU1OWNhNTEwNTZjYWMzY2ZlODJhZTg=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9886819</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 14:58:46</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b6975d6058</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2219</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2219</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10000OO80D6K0J9GO88TAD6SS3F4U9</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10000OO80D6K0J9GO88TAD6SS3F4U9?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=5CBB</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZmEzZTljMDM4OGNiYTNlMDEwMGI1OGE4NDY3YTAxZGY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>9886966</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.01.30 15:21:50</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_679b6edd100b2</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2221</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2221</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004KD2B1ATJG8SSO471M4V99AB4T</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004KD2B1ATJG8SSO471M4V99AB4T?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=8208</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>Y2UwMDNkODVkZWRlMGVmNDI5YTUwZTM4ZTZlNDE3NTc=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10127670</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.02.19 21:26:19</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67b6224abe8a0</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2226</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2226</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10005JULRGA9MJ8TEP59TT7TPM0KEQ</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10005JULRGA9MJ8TEP59TT7TPM0KEQ?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=ACE6</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MGNmNWY1ZmFlODVkMWE3MzQxNTJkNmZiMTUzM2NkNDQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10160405</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.02.25 11:44:21</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67bd82e49497a</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=1838</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=1838</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10003BQV2QR4MB8AQO0L3NO8RN09HC</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10003BQV2QR4MB8AQO0L3NO8RN09HC?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=07F6</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWYxM2NiZDNmN2IwM2I1OGY0MmU4ZDgzZGIzZmUwMGI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196165</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 01:52:18</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c78421b1b8b</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2233</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2233</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100053MTGLQC6G8VN8O9I0CSAUJ53T</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100053MTGLQC6G8VN8O9I0CSAUJ53T?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=1D67</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>N2NkNWE2YmZlMzYyOTY1YjgyOTBhOWY0M2ZkZTI4NGM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196191</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 01:58:33</date>
+<amount>20140000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c78598383ac</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2234</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2234</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002VFLPQ5O2D96L8RFPUKR4PNU24</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002VFLPQ5O2D96L8RFPUKR4PNU24?type=02&amp;bank=100000000123&amp;sum=20140000&amp;cur=RUB&amp;crc=A22B</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YzgxZmRjYTNjNThhZDE1YzVlOTNmNjEwZDE3NzJmYzc=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196311</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 03:37:01</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c79cac26e26</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2238</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2238</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100067VDE3K2F78K7RSK97PE1KCQRT</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100067VDE3K2F78K7RSK97PE1KCQRT?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=5C1F</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MmZkZjM4NGVhMzQ5OWEyNGE3NGZmM2IwZWE0Yjc1NDQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196317</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 03:44:16</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c79e5f5b4cb</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2239</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2239</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100006IN7IIQ258IBQB0LKR52UE8K6</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100006IN7IIQ258IBQB0LKR52UE8K6?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=3E49</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>Y2M4ZjlkNWM1ZDBjMWE3OTc5ZDM3MWM0MGRjOGM1NmY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196320</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 03:46:49</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c79ef8b6d53</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2240</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2240</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100018LD3FSICV96A9K0IGR3FDEK65</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100018LD3FSICV96A9K0IGR3FDEK65?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=6550</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NGQzNDEzYjI1NGEzMGU4ZDVjNDNlOWQ2MzUyYThkODQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196333</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 03:53:56</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a0a363a39</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2241</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2241</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10006BLEHVJ96A9Q2PGO254V2QPE6N</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10006BLEHVJ96A9Q2PGO254V2QPE6N?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=52C0</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NGQ0YjYwYTYyNjAwMmI3MjhkNjFhN2QyN2EzODBiM2Q=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196340</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 03:56:14</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a12dbfa3b</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2242</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2242</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004A35JNMUE189FA9B6AJRKINLAH</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004A35JNMUE189FA9B6AJRKINLAH?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=11E8</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MjE2MDFmYTkwYmEwYzA5M2I2NDJkNDE2NzFkOTUwYjQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196361</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:06:19</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a38a98178</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2243</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2243</failurl>
+<parameters number="8">
+<parameter>
+<name>qrcId</name>
+<value>BD10005IKPPH7AQK9OHBG7JTLVHMHRK6</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10005IKPPH7AQK9OHBG7JTLVHMHRK6?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=BC0A</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>Y2UyZTczZDJhNTFlZmVlNDhlNTQ0OWJlZThiZTY4Mjg=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196363</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:07:19</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a3c6732a0</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2244</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2244</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MmNlYmZhNzEwYjBhZDNhODI4YzExNTI3YTI0ZDBjMjA=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196365</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:08:59</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a42a0c447</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2245</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2245</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10005NEKR6TMEG9UMQD0FB1HVE51Q3</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10005NEKR6TMEG9UMQD0FB1HVE51Q3?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=6D38</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MzUxMjVkZjAwOWU4ODUyYTQxOGVmMDQ1MzhmMDkyM2I=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196379</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:17:02</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a60d21c49</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2246</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2246</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100003N4F8VT0F9KMBTQSVR07Q2KBT</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100003N4F8VT0F9KMBTQSVR07Q2KBT?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=E212</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>N2FiNDcwMDNhMTFlYmM4ODI4NmYzOTRkOTMxNGFhNzk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196381</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:19:01</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a68494d2f</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2247</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2247</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD1000138VKGVHP59KUAGLVP31QP82OG</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD1000138VKGVHP59KUAGLVP31QP82OG?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=8BA5</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NWU4NGY4ZmIzY2RhZGY3YTNkZDg3ZjQwYTVmM2NlNmM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196385</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:20:24</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a6d741628</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2248</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2248</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002IJUAJAQRT82BOEF8RH9EJ9MLV</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002IJUAJAQRT82BOEF8RH9EJ9MLV?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=526A</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NGU4NTdmYTU1Y2RkOTY0ODA4MGU1MWM3Y2FhNzZiYmE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196386</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:21:56</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a733c2c96</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2249</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2249</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD1000059AQI1FTF8FKRU1BKQGQ0LVHE</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD1000059AQI1FTF8FKRU1BKQGQ0LVHE?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=8616</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NWVjZmI3NDgxYmZkOTljNTNiZTk2OTZlNWIzY2ZhMDQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196390</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:23:47</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a7a2a6a74</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2250</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2250</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10003800UCAL9N8MR9R1FN7PG7CK03</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10003800UCAL9N8MR9R1FN7PG7CK03?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=B8CB</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>OTJhMmRjMzFmY2I5Mzc5YWViZTI0ZDAyNTFmODU5YmM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196393</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:25:56</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a82384dda</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2251</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2251</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007NQOQ0E0DA9Q6OFR2UGJ6Q0Q6C</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007NQOQ0E0DA9Q6OFR2UGJ6Q0Q6C?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=5407</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZTFkYmExMjA5ZmI1M2ZkOGQ1YTY0ZmFhNzg1ZWI1MmU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196397</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:28:58</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a8d952d37</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2252</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2252</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100010U0K5GU489VJ9FEI4MN120U2H</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100010U0K5GU489VJ9FEI4MN120U2H?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=3471</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MzY1ODExODcyZjNjYTlmYzE5Y2IxZDBhZDQzNzdlYzY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196399</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:30:11</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a92235a17</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2253</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2253</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100044Q51SJOU48329C07DV2FGO54U</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100044Q51SJOU48329C07DV2FGO54U?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=9448</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWFlNWFiYWRmYmVlZTYxNGRhYjU1ZDBiNDI1NGQ1OGU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196403</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:31:45</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7a97feeb9f</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2254</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2254</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10006L098SQTHK8AEB4M8KVDN5JE9A</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10006L098SQTHK8AEB4M8KVDN5JE9A?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=7217</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MjM3NWZmN2I5MjQzODg4MDM2NDNiZDRjODhiZjRlYjk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196405</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:33:54</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7aa012837c</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2255</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2255</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002VO1VJ25CO993AT8UM84Q152EE</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002VO1VJ25CO993AT8UM84Q152EE?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=922F</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YzE2YWU1YWRlOTk3MDBmOTIxOTNjNjg2YWY5MWM3NjY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196406</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:36:58</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7aab913b4a</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2256</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2256</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001TAARMTTLM9DBBHQ30MIMJFP37</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001TAARMTTLM9DBBHQ30MIMJFP37?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=393E</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ODIyMzE4NGNiYThiOWFkNjhjMGRjZTYwYTlmMjAxOTk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196407</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:41:15</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7abba031cf</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2257</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2257</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100069906B39FD9T2O9V96TTTGH6V0</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100069906B39FD9T2O9V96TTTGH6V0?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=E9C0</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NzdkOGM5ZjcyYmQ0Nzk1MGYxZDg1NTA0ODA4ZDNlMjg=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196408</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:42:30</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7ac056b79f</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2258</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2258</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007IRC3C2ODS8B5BSORHD64V9HOA</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007IRC3C2ODS8B5BSORHD64V9HOA?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=8469</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MzAwOThhZjE3YjhhODY3YmNhYzFlYWY0MjgzMTI0ODA=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196409</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:43:09</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7ac2ca9c09</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2259</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2259</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZjJkNDkxOGNkZWFlOWE0NWZiZjhmOGYzOTNjYTEzNWM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196419</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:54:23</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7aece02d16</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2260</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2260</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10000PKK0GPRFR8IQRKUAAJT398OIR</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10000PKK0GPRFR8IQRKUAAJT398OIR?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=31D4</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NjdmZTFlZDZlMDU5YTc1ZTcxMzJkZjY1ZDk4MzI3Yzk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196421</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 04:57:38</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7af91774a0</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2261</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2261</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100021B5O9OJJ7839AP22SR8OUKBKN</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100021B5O9OJJ7839AP22SR8OUKBKN?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=7B2C</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YjgxY2U0MGQxMTE2NGNkZDhkNzczYmViOWRhZjk4ZGE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196448</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:03:57</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b10be5328</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2262</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2262</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10000LEPTC5E6N8C59RR3RRAMIKN3C</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10000LEPTC5E6N8C59RR3RRAMIKN3C?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=1B51</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MjU2YWRhZWI2OTA0M2Y2MTMyMDAxODQwZDg0N2NiYTM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196460</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:10:12</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b283b2438</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2263</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2263</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001DPBG11KKJ8PKAV6RKAHUCD0SK</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001DPBG11KKJ8PKAV6RKAHUCD0SK?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=B2F4</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YmFhZGZiOTZlZWYyYzgxNzc2NzZmYjM1MmUyMTM5ZWE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196461</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:10:34</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b299b18b4</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2264</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2264</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10005TQHDBJVQ18BEAR9A7OK3RIL2K</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10005TQHDBJVQ18BEAR9A7OK3RIL2K?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=76B3</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWQ2M2NiNWUzMzk2YWIyNWUwNGRjZTdkNjhmYzEwZDE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196465</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:15:19</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b3b5d2d97</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2265</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2265</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10000OTMK9L2FD9VM8EO82I2M6756K</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10000OTMK9L2FD9VM8EO82I2M6756K?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=C9F4</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZjJiZDgzYTA5MWZiZjAxNzNkMDViYTA0YzFmODlmMGI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196472</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:17:15</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b42a9add4</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2266</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2266</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004LULT83SS49ED87KER3C6K3PSD</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004LULT83SS49ED87KER3C6K3PSD?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=0006</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MDI5Yzg1ZTcxOWFkNmJlYWEwOGY1YjE3ODBkN2IzMzk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196474</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:18:20</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b46bc0c1e</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2267</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2267</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001KTF8Q98LG9BRQ7J8SP30KHBV7</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001KTF8Q98LG9BRQ7J8SP30KHBV7?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=38CA</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>M2Q3N2FmZGQ0MmY0ZDYyYjNlM2QyN2Q5NTRhODE5Y2Q=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196475</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:18:50</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b488f0529</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2268</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2268</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MjMyOWQ4ZmExNDQwYTMwZjhhMTEwZjU1OTgzZjMyYjY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196476</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:19:43</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b4be67cb7</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2269</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2269</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007LIFROC4JM8BS8Q5VB554NDJKL</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007LIFROC4JM8BS8Q5VB554NDJKL?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=B4F7</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ODJjNjljMzExMGQ3NmI0NDllNzMwNjQwOTkzNDhiYjg=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196478</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:20:41</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b4f8547e4</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2270</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2270</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10006HHPQDVVJI896BHADR4A29NKNT</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10006HHPQDVVJI896BHADR4A29NKNT?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=0210</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MjVjNmIyMzJlZDY3OWQ1NTBmZDJlMzUyYjYwNmY3NzQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196479</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:21:03</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b50ea097a</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2271</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2271</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10000HCF7D5BGP9PHP104LIBF1Q91N</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10000HCF7D5BGP9PHP104LIBF1Q91N?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=7F22</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MGY4ODdiM2MwNTdjYzk3MDczNDEzMTY0YWUxYmM2OGQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196480</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:21:27</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b52612b3b</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2272</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2272</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002CBE71517N8A5Q1VROL12HICAM</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002CBE71517N8A5Q1VROL12HICAM?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=94AA</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NWM4ZjFhZDBkNzNkMWIyNTM3NTI1OGQ0NGU2MjgzYWU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196482</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:21:40</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b5334ef2e</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2273</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2273</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MmE0ZDYwZDBhNTBkYzIyNzg5YzBkMjk3ZGM1OGI0Y2U=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196483</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:22:06</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b54dc02a1</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2274</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2274</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWQ3M2ZkNzcwNDA1MzZkMTMzNGY1NDg5ZmE5YTM4YTg=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196486</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:22:55</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b57e02096</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2275</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2275</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10001RRFLNETO79UU8I619I9B0JN75</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10001RRFLNETO79UU8I619I9B0JN75?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=5442</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWZjMTkxYzc2YzRkMmUyMzQzZmRjZmQ1YWRjNDVmNWM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196488</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:23:23</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b59a3d1b0</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2276</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2276</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002NN1UP07F49IF8JNCQ9L5IGVNC</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002NN1UP07F49IF8JNCQ9L5IGVNC?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=E0C2</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZjA1YWNlMmRkOTdiNDQ5N2M3NmY3Y2Y1ZGQ5NDE4ZGI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196491</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:23:48</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b5b3cdc8a</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2277</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2277</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MzE3YzY4YWIyYjYzNjhjNTE0M2FmN2ZhMGE2OWY5ZjM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196492</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:24:35</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b5e25078c</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2278</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2278</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100079GFUDRMKN850QGJ19U20C1GOK</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100079GFUDRMKN850QGJ19U20C1GOK?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=1569</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>Yjc4NWU0MWZkOTM3YTE5ZjU0ZDZjODM1NzQwODliY2E=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196508</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:27:50</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b6a5596d1</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2279</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2279</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD1000714S8N5FU68PTP4SM76DKJSGK0</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD1000714S8N5FU68PTP4SM76DKJSGK0?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=06BE</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YmRjYjE5YTliNTMwM2YwN2Q5OTU5MzZjOTBiN2I2MmU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196512</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:28:33</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b6cfe3556</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2280</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2280</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100057N9F7GFPP97U88ESLU44AUNAK</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100057N9F7GFPP97U88ESLU44AUNAK?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=5453</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZGUxOGI2NDU2ZGRiZDdmYmUyZmZmZDMwOGNlMTUxNWE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196514</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:29:01</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b6ecba023</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2281</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2281</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10005INA96LRK58TNAA7AHGVADOONR</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10005INA96LRK58TNAA7AHGVADOONR?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=735A</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>M2I1YzFhYWY4YmFjMzQ5ZTVkMDkzODg1MDIwNDlhY2U=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196520</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:29:49</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b71c7395e</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2282</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2282</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100017OUAOFERC87A8FDOPBM6K9S0N</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100017OUAOFERC87A8FDOPBM6K9S0N?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=9A4F</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MjYwZDQzMzEwNGFmYjBlNTc3YTQ5MzViYjFiOGJiNmM=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196521</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:30:45</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b7540778d</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2283</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2283</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007R84SENHS692LRGSCI729FK4F7</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007R84SENHS692LRGSCI729FK4F7?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=12D7</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NGI1NzFjZGRlZWRkM2QxNWEwMGM0MDdiZjQ3MjdlNmY=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196523</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:32:14</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b7ad90e96</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2284</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2284</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10000QA8T0L7K498POPDQF08LJSIR1</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10000QA8T0L7K498POPDQF08LJSIR1?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=0485</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NDM5YTIzNzBhZjNlMDliODM1ZjgyOWYyYTI4NzA3YTg=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196526</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:32:38</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b7c52082d</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2285</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2285</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZWNhNjE3OTM5ZmIwODgxZDI0YzVmZWUwYmNhMjA0M2I=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196529</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:33:15</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b7eaa411f</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2286</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2286</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004UIK2PQFFU9PE95G2U67CCK6DC</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004UIK2PQFFU9PE95G2U67CCK6DC?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=3F12</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ODU5MjFiNTcxMzM3N2E1NTIwYjM0YzQ5ODYyMzE0ZTk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196533</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:33:51</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b80df26f5</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2287</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2287</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10005E2LTSMJ3N8QSOS6N80K0DE8MO</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10005E2LTSMJ3N8QSOS6N80K0DE8MO?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=FB38</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YTVjZGY0ZTMyOTY1NGZhMmY2NGZmYTNmNjFhZTYwNWE=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196535</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:34:13</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b82487fe8</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2288</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2288</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10005JB2JDLHAQ926QUG725SF9D41C</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10005JB2JDLHAQ926QUG725SF9D41C?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=D2F4</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZjU0Mzk2YWE0Nzg2YjliNDc5NzA1MDg1NDJlODE1ODQ=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196548</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:34:37</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b83c91304</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2289</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2289</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10004UHU8054C59F2P4RCNA8N4HGR9</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10004UHU8054C59F2P4RCNA8N4HGR9?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=8E0F</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NzZmMGNhNGJhMGE1ZDYzYjhmMjk5YmU0MzMzMWI1ZTg=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196564</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:35:06</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b8590ffb9</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2290</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2290</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YTZhMmE3ZGU3NWQ0N2JmZGUyZTRiNmZlNGQzMTY1NTI=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196586</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:35:30</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b87179e5c</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2291</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2291</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>NTFhY2EwNmRlMjJjODk3YTllODgzM2RmNjc3YWIxNWU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196633</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:41:50</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7b9ece0d9a</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2292</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2292</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10002SLGK9O337854Q3OTEM3MTCBOR</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10002SLGK9O337854Q3OTEM3MTCBOR?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=F2B5</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MTc5MzkzYTE2YTg4NzRmZGMyNTE0YmQ1M2M5YjNhNGU=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196642</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:45:25</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7bac4afc57</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2293</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2293</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD100015ELKDORQG84FQSOO0Q5OG8NSQ</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD100015ELKDORQG84FQSOO0Q5OG8NSQ?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=19DC</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>YmRmNGQ5OGJkZThmZTJjOWRlMDc2NGYyYTdhMzA0OTA=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196652</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:51:30</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7bc3166b8f</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2294</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2294</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007M9AC22T3V8TJAK8SCQCM81HLH</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007M9AC22T3V8TJAK8SCQCM81HLH?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=189E</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>ZDNkY2M4NzQ3ZTkzZTZhYTdhN2IzN2I4NWRkYjhiNDk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196655</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:53:23</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7bca2da22e</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2295</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2295</failurl>
+<parameters number="8">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>qrcId</name>
+<value>BD10007E1SEK8S3N8AK91KC27MR8ODIA</value>
+</parameter>
+<parameter>
+<name>payload</name>
+<value>https://qr.nspk.ru/BD10007E1SEK8S3N8AK91KC27MR8ODIA?type=02&amp;bank=100000000123&amp;sum=10070000&amp;cur=RUB&amp;crc=8133</value>
+</parameter>
+<parameter>
+<name>qrType</name>
+<value>DYNAMIC</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>Yzg0ODNlZGFmYjhiZjNiN2Y5N2VjYWE0YTYyMmY1Yjk=</signature>
+</order>
+
+Ответ от сервера: <?xml version="1.0" encoding="UTF-8"?><order>
+<id>10196657</id>
+<state>REGISTERED</state>
+<inprogress>0</inprogress>
+<date>2025.03.05 05:53:51</date>
+<amount>10070000</amount>
+<currency>643</currency>
+<email>rtg.r04@mail.ru</email>
+<phone>+71234567890</phone>
+<life_period>86400</life_period>
+<reference>order_67c7bcbea898a</reference>
+<description>Быстросборный контейнер; </description>
+<url>https://oplata-test.ru/konteineroff/index.php?bookingWord=2296</url>
+<failurl>https://oplata-test.ru/konteineroff/index.php?bookingWord=2296</failurl>
+<parameters number="5">
+<parameter>
+<name>ps</name>
+<value>11</value>
+</parameter>
+<parameter>
+<name>lang</name>
+<value>RUSSIAN</value>
+</parameter>
+<parameter>
+<name>fio</name>
+<value>Индивидуальный предприниматель Лавриненко Иван Евгеньевич</value>
+</parameter>
+<parameter>
+<name>paypage_open_count</name>
+<value>0</value>
+</parameter>
+<parameter>
+<name>payments_executed</name>
+<value>0</value>
+</parameter>
+</parameters>
+<signature>MjA2NmZiZDQ2NGE2MjEyMjg0Yzk1NTMyOWQxY2MxZGE=</signature>
+</order>
+
