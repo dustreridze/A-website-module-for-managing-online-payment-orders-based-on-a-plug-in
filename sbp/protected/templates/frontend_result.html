@@ -1,0 +1,128 @@
+<?php
+	$payment = MInB_getPayment($bookingGetId, true, array(
+		'bookingWord',
+		'bookingName',
+		'bookingDate',
+		'bookingTelefon',
+		'bookingDescription'
+		'email'
+	));
+?>
+
+<?php if (($payment['params']['status'] == 1 || $payment['params']['status'] == 6) && MInB_get('createdDate') === $payment['params']['createdDate']) { ?>
+		
+	<script>
+	$(document).ready(function(){
+	$('footer').hide();$('header').hide();$('body').css('background','#fff');
+	});
+	</script>
+	<div class='adrPanel' style='width:600px;margin:50px auto;padding:30px 20px;border:1px #aaa dotted;border-radius:5px;'>
+	<table id='ticket'>
+	<tr>
+	<th colspan=2 style='font-size:24px;font-style:normal;padding-bottom:10px;'>Общество с ограниченной ответственностью «КОНТЕЙНЕРОФФ»</th>
+	</tr>
+	<tr>
+	<th colspan=2 style='text-align:left;'><img src='images/tel.png' style='margin:0 10px 0 60px;;position:relative;width:24px;top:6px;'>8 (800) 350-47-49</th>
+	</tr>
+	<tr>	
+	<th colspan=2 style='text-align:left;'><img src='images/mail.png' style='margin:0 10px 0 60px;;position:relative;width:24px;top:6px;'>MAIL@KONTEINEROFF.RU</th>
+	</tr>
+	<tr>	
+	<th colspan=2 style='text-align:left;'><img src='images/www.png' style='margin:0 10px 0 60px;;position:relative;width:24px;top:6px;'>https://контейнерофф.рф/</th>
+	</tr>
+	<tr>
+	<th colspan=2 style='text-align:left;padding-bottom:25px;'><img src='images/link.png' style='margin:0 10px 0 60px;;position:relative;width:24px;top:6px;'>Владимир, Промышленный проезд, 5б</th>
+	</tr>
+	<tr>
+	<td>Операция:</td><td><?= 'Оплата заказа №' . $payment['options']['bookingWord'] ?></td>
+	</tr>
+	<tr>
+	<td>&nbsp;&nbsp;&nbsp;Ф.И.О. клиента:</td><td><?= $payment['options']['bookingName']; ?></td>
+	</tr>
+	<tr>
+	<td>&nbsp;&nbsp;&nbsp;Дата заказа:</td><td><?= $payment['options']['bookingDate']; ?></td>
+	</tr>		
+	<tr>
+	<td>&nbsp;&nbsp;&nbsp;Описание заказа:</td><td><?= $payment['options']['bookingDescription']; ?></td>
+	</tr>
+	<?
+	preg_match("/^\s*(?'rub'\-?\d*)(\.(?'kop'\d*))?\s*$/u", sprintf("%01.2f", $payment['params']['paidAmount'] / 100), $match);
+	$Rub = $match ['rub'];
+	$Kop = $match ['kop'];
+	?>
+	<tr>
+	<td>Сумма платежа:</td><td><?= $Rub?> руб. <?= $Kop?> коп.</td>
+	</tr>
+
+	<tr>
+	<td rowspan=3 style='vertical-align:top;'>Получатель:</td><td>ООО «КОНТЕЙНЕРОФФ»</td>
+	</tr>
+	<tr>
+	<td>ИНН 3328018519, КПП 332801001, ОГРН 1173328012010</td>
+	</tr>
+	<tr>
+	<td>
+		Р/С 40702810524410000091 <br>
+		Филиал «Центральный» Банка ВТБ (ПАО) в г. Москве<br>
+БИК: 	044525411<br>
+к/с:	30101810145250000411
+	</td>
+	</tr>
+
+	<tr>
+	<td>Дата оплаты:</td><td><?= $payment['params']['paidDate']; ?></td>
+	</tr>
+	<tr>
+	<td>Идентификатор заказа:</td><td><?= $payment['params']['order_id']; ?></td>
+	</tr>
+	<tr>
+	<td>Идентификатор сессии:</td><td><?= $payment['params']['session_id']; ?></td>
+	</tr>
+	<tr>
+	<td>&nbsp;</td><td>&nbsp;</td>
+	</tr>
+	<tr>
+	<td>ПАО «Промсвязьбанк»:
+	<br />&nbsp;&nbsp;&nbsp;8 800 333 25 50
+	<br />
+	<br />
+	<br />
+	</td>
+	<td style='text-align:center;'>
+	QR-код чека<br />
+	<img src='https://chart.googleapis.com/chart?cht=qr&chs=120x120&chl=<?echo urlencode("https://".$_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."?bookingWord=".$payment['options']['bookingWord'].'&createdDate='.$payment['params']['createdDate']);?>&chld=L|1' alt="QR код чека"/>
+	</td>
+	</tr>
+	</table>
+	</div>
+	<script>
+	window.onload = function () {window.print()}
+	</script>
+	
+<?php } else {?>
+	
+<?php if (isset($answer['twpg_answer']['OrderStatus']) && $answer['twpg_answer']['OrderStatus'] == 'CANCELED') {?>
+	<p>Операция оплаты отменена клиентом. <a href='https://<?echo $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']?>'> Вернуться на страницу оплаты</a> </p>
+	<?php } else {?>
+	<?php if (isset($answer['twpg_answer']['OrderStatus']) && $answer['twpg_answer']['OrderStatus'] == 'DECLINED') {?>
+		<p>Операция оплаты отклонена банком. <a href='https://<?echo $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']?>'> Вернуться на страницу оплаты</a> </p>
+		<?php } else {?>
+		<?php // Если в базе есть отметка об оплате разрешаем перейти к печати чека даже если банк не ответил?>
+		<?php if (!isset($answer['twpg_answer']['OrderStatus']) && $answer['params']['status']!=1 && $answer['params']['status']!=6) {?>
+			<p>Нет ответа от банка о статусе платежа. Статус платежа не определен</p>
+			<?php print_r($answer); 
+			      print_r($payment)?>
+			<?php } else {?>
+			<p>Произошла ошибка при обработке платежа, обратитесь к оператору</p>
+			<p>или в информационно-справочную службу ПАО «МИНБАНК» по телефонам +7 (495) 740-00-74, +7 (800) 100-74-74<p>
+			<?php } ?>
+		<?php } ?>	
+	<?php } ?>
+<?php } ?>
+
+
+
+
+
+
+

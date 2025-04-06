@@ -1,0 +1,83 @@
+<?php if ( isset($booking) && isset($booking['payment_url']) ): ?>
+	<? header("Location: ".$booking['payment_url']);?>
+	<script type="text/javascript">
+		$(function() {
+		$('#dialog').html ('<br/><h4>Выполняется перенаправление, если Вас не переадресовало автоматически нажмите на эту <a href="<?= $processed['payment_url']; ?>"><span style="text-decoration:underline">ссылку<span></h4>').jqmShow();
+		window.location = '<?= $booking['payment_url']; ?>';
+		});
+	</script>
+<?php else: ?>
+	<?php if ( $founded ) { ?>
+
+		<?
+		preg_match("/^\s*(?'rub'\-?\d*)(\.(?'kop'\d*))?\s*$/u", sprintf("%01.2f", $payment['params']['startAmount'] / 100), $match);
+		$Rub = $match ['rub'];
+		$Kop = $match ['kop'];;
+		?>
+		<script>
+		$(document).ready(function(){
+		$('#dialog').css('width','380px').css('left','60%').css('height','auto').css('top','30%').css('padding','20px');
+		$('#dialog').html ('<form method="post" action="index.php"><h3>Пожалуйста, проверьте реквизиты оплаты:</h3><br/>'+
+		'<h4 style="text-align:left;">Назначение платежа: <span style="font-style:italic;text-align:left;color:#b20404"><?= $description?></span></h4>'+
+		'<h4 style="text-align:left;">Заказчик: <span style="font-style:italic;text-align:left;color:#b20404"><?= $payment['options']['bookingName'];?></span></h4>'+
+		'<h4 style="text-align:left;">Дата заказа: <span style="font-style:italic;text-align:left;color:#b20404"><?= $payment['options']['bookingDate'];?></span></h4>'+
+		'<h4 style="text-align:left;">Описание заказа: <span style="font-style:italic;text-align:left;color:#b20404"><?= str_replace(array("\r\n", "\r", "\n"), '<br>', htmlspecialchars($payment['options']['bookingDescription']));?></span></h4>'+
+		'<h4 style="text-align:left;">Сумма платежа: <span style="text-align:left;color:#b20404;font-style:italic;"><?= $Rub?> руб. <?= $Kop?> коп.</span></h4>'+
+		'<br/><br/><button id="go" type="submit" name="action" value="pay" class="has-ripple btn-ripple" onfocus="this.blur();">ОПЛАТИТЬ</button>'+
+		'<input type=hidden name="bookingWord" value="<?= $payment['options']['bookingWord'];?>">'+
+		'</form>'+'<img class="jqmClose" src="images/x.png">').jqmShow();
+		});
+		</script>
+	
+	<?php } ?>
+
+		<div class='panel'>
+			<form action="" method="post">
+				<br/>
+				<h2 class='pay-info'>Уважаемый Клиент, для оплаты заказа введите пожалуйста его номер, сообщенный Вам оператором:</h2>
+				<p class="pay-text">Если Вы еще не знаете номера заказа, пожалуйста свяжитесь с оператором по телефонам <a rel="nofollow" href="tel:84922472847">8(4922) 47-28-47</a>, <a rel="nofollow" href="tel:89607277898">8(960) 727-78-98</a></p>
+				<br/>
+				<div class="submit-container">
+					<input type="text" name="bookingWord" placeholder="Номер заказа" value="<?= MInB_post('bookingWord')?>" />
+					<button class="has-ripple btn-ripple" type="submit">Продолжить</button>
+				</div>
+				<br />
+				<?php if ( $errors['paymentNotExists'] ): ?>
+					<script>
+					$(document).ready(function(){
+					$('#dialog').html ('<br><h3><?echo 'Заказ не найден';?></h3>'+'<img class="jqmClose" src="images/x.png">').jqmShow();
+					});
+					</script>
+				<?php endif; ?>
+				<?php if ( $errors['paymentAlreadyProcessed'] ): ?>
+					<script>
+					$(document).ready(function(){
+					$('#dialog').html ('<br><h3><?echo 'Заказ оплачен ранее (дата оплаты: '.$payment['params']['paidDate'].')';?></h3>'+'<img class="jqmClose" src="images/x.png">').jqmShow();
+					});
+					</script>
+				<?php endif; ?>
+				<?php if ( $errors['paymentTemporaryUndefined'] ): ?>
+					<script>
+					$(document).ready(function(){
+					$('#dialog').html ('<br><h3><?echo 'Статус предыдущей попытки платежа в платежной системе банка временно неопределен. Попробуйте повторить попытку через некоторое время.';?></h3>'+'<img class="jqmClose" src="images/x.png">').jqmShow();
+					});
+					</script>
+				<?php endif; ?>	
+			</form>
+		</div>
+		<?/*
+		<div class="minb" style='margin-top:25px'>
+			<a href="http://minbank.ru" target="_blank" rel="external">
+				<img alt="Московский индустриальный банк" src="images/minb.png" />
+			</a>
+			<img alt="Платежные системы" src="images/MIR.png"/>
+			<img alt="Платежные системы" src="images/paysys.png"/>
+		</div>
+		*/?>
+		<div class="botmsg">
+			<p>При использовании материалов сайта, наличие ссылки на <a href="omis-33.ru">omis-33.ru</a> обязательно.</p>
+			<p>По вопросам проведения платежей обращайтесь в обслуживающее Вас отделение ПАО "Промсвязьбанк" по телефону: 8 800 333 25 50 (бесплатный звонок по России, в том числе из Донецкой Народной Республики, Херсонской и Запорожской областей)</p>
+		</div>	
+
+
+<?php endif; ?>
