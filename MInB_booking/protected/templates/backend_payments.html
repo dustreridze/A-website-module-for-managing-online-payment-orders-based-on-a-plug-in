@@ -1,147 +1,170 @@
 <?php if (MInB_get('view') != 'nbr'): ?>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
 
-    <h2>Управление заказами</h2>
+<div class="order-management-container animate__animated animate__fadeIn">
+    <div class="container-fluid">
+        <h2 class="mb-4 animate__animated animate__fadeInDown">
+            <i class="bi bi-cart-check me-2"></i>Управление заказами
+        </h2>
 
-    <?php if (empty($payments)): ?>
-        <p>В данный момент не создано ни одного заказа.</p>
-    <?php else: ?>
-        <form name="cf" action="" method="post">
-            <table>
-                <tr>
-                    <td style='border-top:none;'>
-                        <b>Отобрать заказы по статусу&nbsp;&nbsp;&nbsp;</b>
-                        <input type="radio" name="search_select" value="" <?php if (MInB_post('search_select') != 'opl' || MInB_post('search_select') != 'noopl') echo 'checked'; ?>> Все
-                        <input type="radio" name="search_select" value="opl" <?php if (MInB_post('search_select') == 'opl') echo 'checked'; ?>> Оплачено
-                        <input type="radio" name="search_select" value="noopl" <?php if (MInB_post('search_select') == 'noopl') echo 'checked'; ?>> Не оплачено
-                    </td>
-                    <td style='width:600px;border-top:none;'>
-                        <b>Отобрать заказы в промежутке от &nbsp;</b>
-                        <input type="text" class="calendar" style='width:128px;text-align:center;' name="dateBegin" value="<?= $dateBegin ?>" />
-                        <b>&nbsp;до &nbsp;</b>
-                        <input type="text" class="calendar" style='width:128px;text-align:center;' name="dateEnd" value="<?= $dateEnd ?>" />
-                    </td>
-                </tr>
-            </table>
-            <p><button type="submit">Обновить список</button></p>
-            
-            <p>
-                <b>Страница</b>
-                <input style="width:60px;text-align:right" name="cpg" value='<?php echo $cpg ?>'>
-                <span style="position:relative">
-                    <span style='cursor:pointer;font-size:20px;<?php if ($cpg < $pages) echo "color:#f00"; else echo "color:#ccc"; ?>;padding:0;position:relative;top:-7px;z-index:3000;margin:0 5px 0 0;' onclick="if ($('[name=cpg]').val() < <?php echo $pages ?>) {$('[name=cpg]').val(parseInt($('[name=cpg]').val()) + 1);$('[name=cf]').submit();}">+</span>
-                    <span style='cursor:pointer;font-size:20px;<?php if ($cpg > 1) echo "color:#00f"; else echo "color:#ccc"; ?>;display:inline-block;padding:0;position:absolute;top:4px;left:0px;margin:0 5px 0 0;' onclick="if ($('[name=cpg]').val() > 1) {$('[name=cpg]').val(parseInt($('[name=cpg]').val()) - 1);$('[name=cf]').submit();}">&#8211;</span>
-                </span>
-                <b>из</b> <?php echo $pages ?>
-            </p>
-        </form>
-        <table id="MInB_booking_table" class='booking-form'>
-            <tr>
-                <th>ID</th>
-                <th>Номер заказа</th>
-                <th>Ф.И.О.</th>
-                <th>Дата заказа</th>
-                <th>Стартовая сумма</th>
-                <th>Оплаченная сумма</th>
-                <th>Номер, дата п/п</th>
-                <th>Сумма возврата</th>
-                <th>Статус заказа</th>
-                <th>Способ оплаты</th>
-            </tr>
-            <?php foreach ($payments as $payment): ?>
-                <tr <?php if ($payment['params']['status'] == 7) echo "style='color:#b0b0b0'"; ?>>
-                    <td><a href="<?= $url . '?bookingId=' . $payment['params']['payment_id']; ?>"><?= $payment['params']['payment_id']; ?></a></td>
-                    <td><?= $payment['options']['bookingWord']; ?></td>
-                    <td><?= $payment['options']['bookingName']; ?></td>
-                    <td><?= $payment['options']['bookingDate']; ?></td>
-                    <td><?= $payment['params']['startAmount'] / 100; ?> руб.</td>
-                    <td>
-                        <?php if ($payment['params']['paidAmount'] == 0): ?>
-                            <?php if ($payment['params']['status'] == 5): ?>
-                                Оплачено, ждёт подтверждения
-                            <?php else: ?>
-                                Не оплачено
-                            <?php endif; ?>
-                        <?php else: ?>
-                            <?= $payment['params']['paidAmount'] / 100; ?> руб.
-                        <?php endif; ?>
-                    </td>
-                    <td><?php if (!empty($payment['options']['procDate'])) echo '№' . $payment['options']['procPP'] . '<br/> от ' . $payment['options']['procDate']; ?></td>
-                    <td><?php if ($payment['params']['refundAmount'] == 0): ?>Не возвращен<?php else: ?><?= $payment['params']['refundAmount'] / 100; ?> руб.<?php endif; ?></td>
-                    <td><?= MInB_convertPaymentStatus($payment['params']['status']); ?></td>
-                    <td>
-                        <?php if ($payment['options']['paymentmethod'] === 'SBP'): ?>
-                            СБП
-                        <?php else: ?>
-                            Картой
-                        <?php endif; ?>
-                    </td>
-                </tr>
-            <?php endforeach; ?>
-        </table>
-    <?php endif; ?>
-<?php else: ?>
-
-    <h2 class="">Забронировать</h2>
-
-    <?php if (isset($booking) && isset($booking['payment_id'])): ?>
-        <p style="color: #023769;">Создан новый платеж, ID: <strong><?= $booking['payment_id']; ?></strong>.</p>
-    <?php endif; ?>
-
-    <?php if ($verifyError): ?>
-        <?php if (empty($verifyWord)): ?>
-            <p style="color: #ff0000;">Неверная сумма платежа!</p>
+        <?php if (empty($payments)): ?>
+            <div class="alert alert-info animate__animated animate__fadeIn">
+                <i class="bi bi-info-circle me-2"></i>В данный момент не создано ни одного заказа.
+            </div>
         <?php else: ?>
-            <p style="color: #ff0000;">Номер заказа уже используется!</p>
-        <?php endif; ?>
-    <?php endif; ?>
+            <form name="cf" action="" method="post" class="mb-4 animate__animated animate__fadeIn">
+                <div class="card mb-4 shadow-sm">
+                    <div class="card-body">
+                        <div class="row g-3">
+                            <!-- Фильтр по статусу -->
+                            <div class="col-md-6">
+                                <label class="form-label fw-bold d-block mb-2">
+                                    <i class="bi bi-funnel me-1"></i>Отобрать заказы по статусу
+                                </label>
+                                <div class="btn-group btn-group-sm" role="group">
+                                    <input type="radio" class="btn-check" name="search_select" value="" id="search_all" <?php if (MInB_post('search_select') != 'opl' || MInB_post('search_select') != 'noopl') echo 'checked'; ?>>
+                                    <label class="btn btn-outline-secondary" for="search_all">Все</label>
+                                    
+                                    <input type="radio" class="btn-check" name="search_select" value="opl" id="search_opl" <?php if (MInB_post('search_select') == 'opl') echo 'checked'; ?>>
+                                    <label class="btn btn-outline-success" for="search_opl">Оплачено</label>
+                                    
+                                    <input type="radio" class="btn-check" name="search_select" value="noopl" id="search_noopl" <?php if (MInB_post('search_select') == 'noopl') echo 'checked'; ?>>
+                                    <label class="btn btn-outline-danger" for="search_noopl">Не оплачено</label>
+                                </div>
+                            </div>
 
-    <form action="?view=nbr" method="post">
-        <table class='booking-form'>
-            <tr valign="top">
-                <td>Сумма оплаты</td>
-                <td>
-                    <input type="text" name="bookingAmount" placeholder="123.45" value="<?= MInB_escape(MInB_post('bookingAmount')); ?>" /> руб.
-                    <p class="description">Сумма, которую нужно будет оплатить клиенту.</p>
-                </td>
-            </tr>
-            <tr valign="top">
-                <td>ФИО клиента</td>
-                <td>
-                    <input type="text" name="bookingName" value="<?= MInB_escape(MInB_post('bookingName')); ?>" />
-                    <p class="description">Ф. И. О. клиента, свободный формат ввода.</p>
-                </td>
-            </tr>
-            <tr valign="top">
-                <td>Email</td>
-                <td>
-                    <input type="email" name="bookingEmail" value="<?= MInB_escape(MInB_post('bookingEmail')); ?>" />
-                    <p class="description">Адрес эл. почты клиента</p>
-                </td>
-            </tr>
-            <tr valign="top">
-                <td>Дата заказа</td>
-                <td>
-                    <input type="text" class="calendar" name="bookingDate" value="<?= MInB_escape(MInB_post('bookingDate')); ?>" />
-                    <p class="description">Дата заказа, свободный формат ввода.</p>
-                </td>
-            </tr>
-            <tr valign="top">
-                <td>Описание</td>
-                <td>
-                    <textarea name="bookingDescription"><?= MInB_escape(MInB_post('bookingDescription')); ?></textarea>
-                    <p class="description">Текст который будет выведен клиенту при подтверждении перехода на страницу оплаты.</p>
-                </td>
-            </tr>
-            <tr valign="top">
-                <td>Секретное слово</td>
-                <td>
-                    <input type="text" name="bookingWord" placeholder="Номер заказа" value="<?= MInB_escape(MInB_post('bookingWord')); ?>" />
-                    <p class="description">Номер заказа, которое нужно будет сообщить клиенту.</p>
-                </td>
-            </tr>
-        </table>
-        <br />
-        <p><button type="submit">Создать заказ</button></p>
-    </form>
+                            <!-- Фильтр по датам -->
+                            <div class="col-md-6">
+                                <label class="form-label fw-bold d-block mb-2">
+                                    <i class="bi bi-calendar-range me-1"></i>Отобрать заказы в промежутке
+                                </label>
+                                <div class="row g-2">
+                                    <div class="col-5">
+                                        <div class="input-group input-group-sm">
+                                            <span class="input-group-text"><i class="bi bi-calendar"></i></span>
+                                            <input type="text" class="form-control calendar" name="dateBegin" value="<?= $dateBegin ?>">
+                                        </div>
+                                    </div>
+                                    <div class="col-5">
+                                        <div class="input-group input-group-sm">
+                                            <span class="input-group-text"><i class="bi bi-calendar"></i></span>
+                                            <input type="text" class="form-control calendar" name="dateEnd" value="<?= $dateEnd ?>">
+                                        </div>
+                                    </div>
+                                    <div class="col-2">
+                                        <button type="submit" class="btn btn-custom btn-sm w-100 fw-bold">
+                                            <i class="bi bi-check-lg"></i> Применить
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Пагинация -->
+                <div class="d-flex align-items-center mb-3 animate__animated animate__fadeIn">
+                    <span class="me-2 fw-bold"><i class="bi bi-file-earmark-text me-1"></i>Страница</span>
+                    <input class="form-control form-control-sm" style="width: 60px; text-align: center" name="cpg" value="<?php echo $cpg ?>">
+                    <span class="mx-2">из <?php echo $pages ?></span>
+                    
+                    <button type="button" class="btn btn-sm btn-outline-secondary me-2 <?php if ($cpg <= 1) echo 'disabled'; ?>" 
+                        onclick="if ($('[name=cpg]').val() > 1) {$('[name=cpg]').val(parseInt($('[name=cpg]').val()) - 1);$('[name=cf]').submit();}">
+                        <i class="bi bi-chevron-left"></i>
+                    </button>
+                    
+                    <button type="button" class="btn btn-sm btn-outline-secondary <?php if ($cpg >= $pages) echo 'disabled'; ?>" 
+                        onclick="if ($('[name=cpg]').val() < <?php echo $pages ?>) {$('[name=cpg]').val(parseInt($('[name=cpg]').val()) + 1);$('[name=cf]').submit();}">
+                        <i class="bi bi-chevron-right"></i>
+                    </button>
+                </div>
+            </form>
+
+            <!-- Таблица заказов -->
+            <div class="table-responsive animate__animated animate__fadeIn">
+                <table class="table table-hover table-bordered">
+                    <thead class="table-light">
+                        <tr class="text-center">
+                            <th>ID</th>
+                            <th>Номер заказа</th>
+                            <th>Ф.И.О.</th>
+                            <th>Дата заказа</th>
+                            <th>Стартовая сумма</th>
+                            <th>Оплаченная сумма</th>
+                            <th>Сумма возврата</th>
+                            <th>Статус заказа</th>
+                            <th>Способ оплаты</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <?php foreach ($payments as $index => $payment): ?>
+                            <tr class="<?= ($payment['params']['status'] == 7) ? 'text-muted' : '' ?> animate__animated animate__fadeIn" style="animation-delay: <?= $index * 0.03 ?>s">
+                                <td class="text-center fw-bold">
+                                    <a href="<?= $url . '?bookingId=' . $payment['params']['payment_id']; ?>" class="text-decoration-none">
+                                        #<?= $payment['params']['payment_id']; ?>
+                                    </a>
+                                </td>
+                                <td><?= $payment['options']['bookingWord']; ?></td>
+                                <td><?= $payment['options']['bookingName']; ?></td>
+                                <td>
+                                    <span class="badge bg-light text-dark">
+                                        <?= $payment['options']['bookingDate']; ?>
+                                    </span>
+                                </td>
+                                <td class="fw-bold"><?= $payment['params']['startAmount'] / 100; ?> руб.</td>
+                                <td>
+                                    <?php if ($payment['params']['paidAmount'] == 0): ?>
+                                        <?php if ($payment['params']['status'] == 5): ?>
+                                            <span class="badge bg-warning text-dark animate__animated animate__pulse animate__infinite" style="animation-duration: 1.5s">
+                                                <i class="bi bi-hourglass-split me-1"></i>Ожидает подтверждения
+                                            </span>
+                                        <?php else: ?>
+                                            <span class="badge bg-danger">
+                                                <i class="bi bi-x-circle me-1"></i>Не оплачено
+                                            </span>
+                                        <?php endif; ?>
+                                    <?php else: ?>
+                                        <span class="badge bg-success">
+                                            <i class="bi bi-check-circle me-1"></i><?= $payment['params']['paidAmount'] / 100; ?> руб.
+                                        </span>
+                                    <?php endif; ?>
+                                </td>
+                                <td>
+                                    <?php if ($payment['params']['refundAmount'] == 0): ?>
+                                        <span class="badge bg-secondary">
+                                            <i class="bi bi-dash-circle me-1"></i>Не возвращен
+                                        </span>
+                                    <?php else: ?>
+                                        <span class="badge bg-danger text-light">
+                                            <i class="bi bi-arrow-return-left me-1"></i><?= $payment['params']['refundAmount'] / 100; ?> руб.
+                                        </span>
+                                    <?php endif; ?>
+                                </td>
+                                <td>
+                                    <span class="badge bg-info text-dark">
+                                        <?= MInB_convertPaymentStatus($payment['params']['status']); ?>
+                                    </span>
+                                </td>
+                                <td>
+                                    <?php if ($payment['options']['paymentmethod'] === 'SBP'): ?>
+                                        <span class="badge bg-primary">
+                                            <i class="bi bi-bank me-1"></i>СБП
+                                        </span>
+                                    <?php else: ?>
+                                        <span class="badge bg-dark">
+                                            <i class="bi bi-credit-card me-1"></i>Картой
+                                        </span>
+                                    <?php endif; ?>
+                                </td>
+                            </tr>
+                        <?php endforeach; ?>
+                    </tbody>
+                </table>
+            </div>
+        <?php endif; ?>
+    </div>
+</div>
+<?php else: ?>
 
 <?php endif; ?>
