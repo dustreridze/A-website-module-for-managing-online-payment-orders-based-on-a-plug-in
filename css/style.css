@@ -1,6 +1,5 @@
 @charset "UTF-8";
 
-/* Основные стили */
 * {
     box-sizing: border-box;
 }
@@ -63,24 +62,7 @@ body {
 .header-logo:hover {
     transform: scale(1.05);
 }
-/*
-.brand-text {
-    line-height: 1.2;
-}
 
-.brand-title {
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: #2f3435;
-    margin-bottom: 0.2rem;
-}
-
-.brand-subtitle {
-    font-size: 0.9rem;
-    color: #6c757d;
-    font-style: italic;
-}
-*/
 
 .header-slogan {
     font-size: 1.2rem;
@@ -449,7 +431,6 @@ footer {
     }
 }
 
-/* JQMODAL стили (оставлены оригинальные) */
 .jqmWindow {
     display: none;
     position: fixed;
