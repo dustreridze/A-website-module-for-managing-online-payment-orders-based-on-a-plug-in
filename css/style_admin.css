@@ -3,18 +3,18 @@ body {
     background-color: #f8fafc;
 }
 
-/* Анимации */
+
 .animate__animated {
     animation-duration: 0.5s;
 }
 
-/* Заголовок страницы */
+
 .order-management-container h2 {
     color: #2c3e50;
     font-weight: 600;
 }
 
-/* Карточка фильтров */
+
 .card {
     border-radius: 10px;
     border: none;
@@ -26,7 +26,7 @@ body {
     transform: translateY(-3px);
 }
 
-/* Кнопки фильтров */
+
 .btn-custom {
     background-color: #ff9100;
     border-color: #ff9100;
@@ -48,7 +48,6 @@ body {
     transform: translateY(0);
 }
 
-/* Таблица */
 .table {
     --bs-table-bg: transparent;
     border-radius: 10px;
@@ -72,7 +71,7 @@ body {
     transform: translateX(5px);
 }
 
-/* Бейджи */
+
 .badge {
     font-weight: 500;
     padding: 6px 10px;
@@ -82,7 +81,7 @@ body {
     font-size: 0.85rem;
 }
 
-/* Ссылки */
+
 a {
     transition: all 0.2s ease;
 }
@@ -91,7 +90,7 @@ a:hover {
     color: #ff9100 !important;
 }
 
-/* Адаптивность */
+
 @media (max-width: 768px) {
     .table-responsive {
         border: 1px solid #eee;
